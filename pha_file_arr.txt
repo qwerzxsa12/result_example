@@ -1,0 +1,3 @@
+n6/pha.fits
+n7/pha.fits
+b1/pha.fits

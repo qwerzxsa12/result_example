@@ -1,0 +1,3 @@
+n6/bak.fits
+n7/bak.fits
+b1/bak.fits

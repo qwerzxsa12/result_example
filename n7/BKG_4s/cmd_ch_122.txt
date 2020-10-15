@@ -1,0 +1,4 @@
+fselect /data/Fermi_Triggered_GRB/160625945/glg_tte_n7_bn160625945_v00.fit[2] event_ch_122.fits 'PHA ==122  '
+gtbin evfile=event_ch_122.fits scfile=NONE outfile=lc_ch_122.fits algorithm=LC tbinalg=LIN TSTART=488586903.10497128963470458984 TSTOP=488587912.34502255916595458984 clobber=yes dtime=16.0
+ fcalc infile=lc_ch_122.fits outfile=lc_ch_122_T0.fits clname=TminusT0 expr="Time-488587220.274999976" clobber=yes
+ fcalc infile=lc_ch_122_T0.fits outfile=lc_ch_122_T0_rate.fits clname=RATE expr="COUNTS/TIMEDEL" clobber=yes

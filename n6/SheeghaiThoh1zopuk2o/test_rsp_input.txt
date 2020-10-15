@@ -1,0 +1,8 @@
+      308.597
+      6.91960
+   4.8858722e+08
+      2.00000
+       6
+/var/www/html/gbmrsp/SheeghaiThoh1zopuk2o
+/var/www/html/gbmrsp/SheeghaiThoh1zopuk2o/glg_poshist_all_160625_v00.fit
+/var/www/html/gbmrsp/SheeghaiThoh1zopuk2o/pha.fits
